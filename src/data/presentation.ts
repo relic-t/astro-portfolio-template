@@ -11,22 +11,22 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "maxencewolff.pro@gmail.com",
-  title: "Hi, I’m Maxence 👋",
+  mail: "luz@relict.one",
+  title: "📃 Relict Paper",
   description:
-    "Bonjour, i'm a *french frontend developer* with over *3 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "Hi, i'm *Luz*. I like to draw digital arts. Beginner in coding, but like to create something on the Internet. I'm currently into playing 'Genshin Impact'.",
   socials: [
     {
-      label: "Twiiter",
-      link: "https://twitter.com/itsstormzz_",
-    },
+      label: "Misskey",
+      link: "https://relict.one/@luz",
+    },    
     {
-      label: "Bento",
-      link: "https://bento.me/m-wolff",
+      label: "Tumblr",
+      link: "https://mug.relict.one",
     },
     {
       label: "Github",
-      link: "https://github.com/MaeWolff",
+      link: "https://github.com/relic-t",
     },
   ],
 };
